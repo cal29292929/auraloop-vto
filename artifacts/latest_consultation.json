@@ -1,0 +1,258 @@
+{
+  "consultation_id": "aura-92f7a92112e8",
+  "created_at_jst": "2026-10-27T23:16:03+09:00",
+  "overall_mode": "simulated",
+  "overall_status": "ok",
+  "cosmetic_disclaimer": "COSMETIC & STYLING INFORMATION ONLY: AuraLoop VTO provides cosmetic appearance estimates and virtual try-on previews. It is NOT a medical device and does NOT provide dermatological or clinical diagnosis.",
+  "privacy_audit": {
+    "consent_granted": true,
+    "mime_type": "image/png",
+    "width": 64,
+    "height": 64,
+    "exif_stripped": true,
+    "stripped_metadata_segments": 1,
+    "zero_disk_retention_verified": true,
+    "sanitized_sha256": "92f7a92112e87c9ce769beda8a556bb0c48d7b47a7fccbac19b531f5d7c59efd"
+  },
+  "skin_analysis": {
+    "overall_score": 73.1,
+    "skin_age_estimate": 26,
+    "metrics": {
+      "moisture": 57,
+      "oiliness": 68,
+      "redness": 50,
+      "texture": 74,
+      "pores": 65,
+      "wrinkles": 85,
+      "acne": 78,
+      "dark_spots": 83,
+      "radiance": 62,
+      "firmness": 86,
+      "dark_circles": 60,
+      "eye_bags": 84,
+      "droopy_upper_eyelid": 85,
+      "droopy_lower_eyelid": 86
+    },
+    "skin_tone_hex": "#E3B998",
+    "undertone": "warm_neutral",
+    "seasonal_palette": "Warm Autumn"
+  },
+  "color_science": {
+    "skin_tone_hex": "#E3B998",
+    "skin_tone_cielab": [
+      78.0508,
+      10.4966,
+      22.4579
+    ],
+    "matched_foundation_sku": "SKU-MKP-01",
+    "foundation_ciede2000_delta_e": 0.7818,
+    "matched_apparel_sku": "SKU-APP-01",
+    "apparel_ciede2000_delta_e": 7.9724
+  },
+  "vto_artifacts": {
+    "makeup_vto": {
+      "stage_name": "makeup_vto",
+      "ref_type": "sim_uri",
+      "uri_or_id": "sim://makeup/yc-mkp-1c207702ae.png",
+      "preview_svg_data_uri": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDgwIDMyMCI+PHJlY3Qgd2lkdGg9IjQ4MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0iIzBmMTcyYSIvPjxjaXJjbGUgY3g9IjI0MCIgY3k9IjEzNSIgcj0iNjgiIGZpbGw9IiNFMUI2OTUiIGZpbGwtb3BhY2l0eT0iMC4yOCIgc3Ryb2tlPSIjRTFCNjk1IiBzdHJva2Utd2lkdGg9IjMiLz48dGV4dCB4PSIyNDAiIHk9IjI0NSIgZmlsbD0iI2Y4ZmFmYyIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5NYWtldXAgVlRPIFJlbmRlcjwvdGV4dD48dGV4dCB4PSIyNDAiIHk9IjI3NSIgZmlsbD0iIzk0YTNiOCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlNLVSBTS1UtTUtQLTAxICgjRTFCNjk1KTwvdGV4dD48L3N2Zz4=",
+      "chained_from_stage": "skin_tone"
+    },
+    "apparel_vto": {
+      "stage_name": "apparel_vto",
+      "ref_type": "sim_uri",
+      "uri_or_id": "sim://apparel/yc-app-3a7a1ea059.png",
+      "preview_svg_data_uri": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODAiIGhlaWdodD0iMzIwIiB2aWV3Qm94PSIwIDAgNDgwIDMyMCI+PHJlY3Qgd2lkdGg9IjQ4MCIgaGVpZ2h0PSIzMjAiIHJ4PSIxNiIgZmlsbD0iIzBmMTcyYSIvPjxjaXJjbGUgY3g9IjI0MCIgY3k9IjEzNSIgcj0iNjgiIGZpbGw9IiNDOTlFNzQiIGZpbGwtb3BhY2l0eT0iMC4yOCIgc3Ryb2tlPSIjQzk5RTc0IiBzdHJva2Utd2lkdGg9IjMiLz48dGV4dCB4PSIyNDAiIHk9IjI0NSIgZmlsbD0iI2Y4ZmFmYyIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5BcHBhcmVsIFZUTyBSZW5kZXI8L3RleHQ+PHRleHQgeD0iMjQwIiB5PSIyNzUiIGZpbGw9IiM5NGEzYjgiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5DaGFpbmVkIFNLVS1BUFAtMDE8L3RleHQ+PC9zdmc+",
+      "chained_from_stage": "makeup_vto"
+    }
+  },
+  "regimen": {
+    "barrier_sensitivity_detected": true,
+    "recommended_skincare": [
+      {
+        "sku_id": "SKU-SKN-01",
+        "brand": "AuraDerma Lab",
+        "name": "Ceramide + 5% Panthenol Barrier Cloud Serum",
+        "category": "skincare",
+        "price_usd": 38.0,
+        "currency": "USD",
+        "hex_color": "#F5F9FC",
+        "lab_color": [
+          97.7092,
+          -0.7807,
+          -1.8961
+        ],
+        "target_concerns": [
+          "moisture",
+          "redness"
+        ],
+        "contraindications": [],
+        "checkout_url": "https://shop.auraloop.example.com/sku/SKU-SKN-01"
+      },
+      {
+        "sku_id": "SKU-SKN-02",
+        "brand": "AuraDerma Lab",
+        "name": "Niacinamide 10% + Zinc Pore & Radiance Essence",
+        "category": "skincare",
+        "price_usd": 34.0,
+        "currency": "USD",
+        "hex_color": "#FFFBEB",
+        "lab_color": [
+          98.5327,
+          -1.3618,
+          8.133
+        ],
+        "target_concerns": [
+          "oiliness",
+          "pores",
+          "radiance",
+          "dark_circles"
+        ],
+        "contraindications": [],
+        "checkout_url": "https://shop.auraloop.example.com/sku/SKU-SKN-02"
+      }
+    ],
+    "suppressed_contraindicated_skus": [
+      {
+        "sku_id": "SKU-SKN-03",
+        "name": "Retinaldehyde 0.1% + AHA Resurfacing Night Peel",
+        "reason": "Suppressed high-potency retinoid/AHA exfoliant due to elevated redness/barrier sensitivity (redness=50, moisture=57)."
+      }
+    ]
+  },
+  "cart": {
+    "currency": "USD",
+    "item_count": 4,
+    "subtotal_usd": 262.0,
+    "bundle_discount_usd": 26.2,
+    "total_usd": 235.8,
+    "line_items": [
+      {
+        "sku_id": "SKU-SKN-01",
+        "brand": "AuraDerma Lab",
+        "name": "Ceramide + 5% Panthenol Barrier Cloud Serum",
+        "category": "skincare",
+        "quantity": 1,
+        "unit_price_usd": 38.0,
+        "line_total_usd": 38.0,
+        "hex_color": "#F5F9FC",
+        "rationale": "Targeted AM/PM barrier & radiance support for moisture, redness.",
+        "checkout_url": "https://shop.auraloop.example.com/sku/SKU-SKN-01"
+      },
+      {
+        "sku_id": "SKU-SKN-02",
+        "brand": "AuraDerma Lab",
+        "name": "Niacinamide 10% + Zinc Pore & Radiance Essence",
+        "category": "skincare",
+        "quantity": 1,
+        "unit_price_usd": 34.0,
+        "line_total_usd": 34.0,
+        "hex_color": "#FFFBEB",
+        "rationale": "Targeted AM/PM barrier & radiance support for oiliness, pores, radiance, dark_circles.",
+        "checkout_url": "https://shop.auraloop.example.com/sku/SKU-SKN-02"
+      },
+      {
+        "sku_id": "SKU-MKP-01",
+        "brand": "YouCam Luxe Cosmetics",
+        "name": "Silk Serum Foundation — 220 Warm Honey",
+        "category": "makeup",
+        "quantity": 1,
+        "unit_price_usd": 42.0,
+        "line_total_usd": 42.0,
+        "hex_color": "#E1B695",
+        "rationale": "CIEDE2000 ΔE00=0.78 match to skin tone #E3B998.",
+        "checkout_url": "https://shop.auraloop.example.com/sku/SKU-MKP-01"
+      },
+      {
+        "sku_id": "SKU-APP-01",
+        "brand": "Atelier Aura",
+        "name": "Merino Draped Wrap Blazer — Warm Camel",
+        "category": "apparel",
+        "quantity": 1,
+        "unit_price_usd": 148.0,
+        "line_total_usd": 148.0,
+        "hex_color": "#C99E74",
+        "rationale": "Seasonal palette (Warm Autumn) harmony match (ΔE00=7.97).",
+        "checkout_url": "https://shop.auraloop.example.com/sku/SKU-APP-01"
+      }
+    ],
+    "cosmetic_disclaimer": "COSMETIC & STYLING INFORMATION ONLY: AuraLoop VTO provides cosmetic appearance estimates and virtual try-on previews. It is NOT a medical device and does NOT provide dermatological or clinical diagnosis."
+  },
+  "stage_provenance": {
+    "skin_analysis": {
+      "stage_name": "skin_analysis",
+      "provider": "auraloop_sim",
+      "mode": "simulated",
+      "status": "ok",
+      "degraded_reason": null,
+      "units_reserved": 0,
+      "units_spent": 0,
+      "duration_ms": 12.42,
+      "request_id": "yc-skin-817b2d92e2"
+    },
+    "skin_tone": {
+      "stage_name": "skin_tone",
+      "provider": "local_engine",
+      "mode": "simulated",
+      "status": "ok",
+      "degraded_reason": null,
+      "units_reserved": 0,
+      "units_spent": 0,
+      "duration_ms": 1.87,
+      "request_id": "tone-92f7a92112"
+    },
+    "makeup_vto": {
+      "stage_name": "makeup_vto",
+      "provider": "auraloop_sim",
+      "mode": "simulated",
+      "status": "ok",
+      "degraded_reason": null,
+      "units_reserved": 0,
+      "units_spent": 0,
+      "duration_ms": 18.22,
+      "request_id": "yc-mkp-1c207702ae"
+    },
+    "apparel_vto": {
+      "stage_name": "apparel_vto",
+      "provider": "auraloop_sim",
+      "mode": "simulated",
+      "status": "ok",
+      "degraded_reason": null,
+      "units_reserved": 0,
+      "units_spent": 0,
+      "duration_ms": 24.51,
+      "request_id": "yc-app-3a7a1ea059"
+    },
+    "regimen_engine": {
+      "stage_name": "regimen_engine",
+      "provider": "local_engine",
+      "mode": "simulated",
+      "status": "ok",
+      "degraded_reason": null,
+      "units_reserved": 0,
+      "units_spent": 0,
+      "duration_ms": 1.2,
+      "request_id": "reg-92f7a92112"
+    },
+    "cart_builder": {
+      "stage_name": "cart_builder",
+      "provider": "local_engine",
+      "mode": "simulated",
+      "status": "ok",
+      "degraded_reason": null,
+      "units_reserved": 0,
+      "units_spent": 0,
+      "duration_ms": 0.97,
+      "request_id": "cart-92f7a92112"
+    }
+  },
+  "unit_budget_ledger": {
+    "promo_code": "YOUCAMHACK2609a",
+    "total_units": 1000,
+    "hard_ceiling": 950,
+    "reserved_units": 0,
+    "committed_units": 0,
+    "unknown_submission_units": 0,
+    "remaining_safe_units": 950,
+    "remaining_total_units": 1000
+  }
+}

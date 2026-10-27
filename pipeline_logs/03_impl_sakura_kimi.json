@@ -1,0 +1,42 @@
+{
+  "stage": "03_impl_sakura_kimi",
+  "hackathon": "04-youcam-vto",
+  "package": "auraloop_vto",
+  "endpoint": "https://api.ai.sakura.ad.jp/v1/chat/completions",
+  "primary_model": "preview/Kimi-K2.7-Code",
+  "started_at_jst": "2026-10-27T23:05:43+09:00",
+  "completed_at_jst": "2026-10-27T23:07:48+09:00",
+  "calls": [
+    {
+      "step": 1,
+      "completion_id": "chatcmpl-9206fbc5df5e2583",
+      "model_used": "preview/Kimi-K2.7-Code",
+      "usage": {
+        "prompt_tokens": 94,
+        "total_tokens": 4190,
+        "completion_tokens": 4096,
+        "prompt_tokens_details": null,
+        "completion_tokens_details": {
+          "reasoning_tokens": 2949
+        }
+      },
+      "chars": 5420
+    },
+    {
+      "step": 2,
+      "completion_id": "chatcmpl-ad1318e7e5a69da6",
+      "model_used": "preview/Kimi-K2.7-Code",
+      "usage": {
+        "prompt_tokens": 98,
+        "total_tokens": 4194,
+        "completion_tokens": 4096,
+        "prompt_tokens_details": null,
+        "completion_tokens_details": {
+          "reasoning_tokens": 2602
+        }
+      },
+      "chars": 3553
+    }
+  ],
+  "total_generated_chars": 9225
+}

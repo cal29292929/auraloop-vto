@@ -1,0 +1,62 @@
+{
+  "stage": "01_design_opus55",
+  "hackathon": "04-youcam-vto",
+  "model": "claude-opus-5-5",
+  "started_at_jst": "2026-10-27T22:51:38+09:00",
+  "completed_at_jst": "2026-10-27T22:55:44+09:00",
+  "session_id": "3048c208-91fc-449d-8c10-ae7b52b6c449",
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 20789,
+    "cache_read_input_tokens": 10765,
+    "output_tokens": 26263,
+    "output_tokens_details": {
+      "thinking_tokens": 4571
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 20789,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 26263,
+        "cache_read_input_tokens": 10765,
+        "cache_creation_input_tokens": 20789,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 20789
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-opus-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 26263,
+      "cacheReadInputTokens": 10765,
+      "cacheCreationInputTokens": 20789,
+      "webSearchRequests": 0,
+      "costUSD": 0.693733,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 4571,
+      "cacheCreationEphemeral5mInputTokens": 0,
+      "cacheCreationEphemeral1hInputTokens": 20789,
+      "canonicalModel": "claude-opus-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "output_file": "/workspace/hackathons/04-youcam-vto/DESIGN_OPUS55.md",
+  "output_bytes": 49824
+}

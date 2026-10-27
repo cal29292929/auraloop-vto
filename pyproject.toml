@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "auraloop-vto"
+version = "1.0.0"
+description = "Agentic 14-Metric Skin AI Diagnostics & Real-Time Omnichannel Virtual Try-On Concierge powered by Perfect Corp. YouCam API"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Kazutoshi Hayashi"}]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+auraloop-vto = "auraloop_vto.cli:main"
